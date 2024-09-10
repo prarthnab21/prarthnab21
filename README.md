@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @prarthnab21
-- 👀 I’m interested in SWE and Data Science roles
-- 🌱 I’m currently obtaining my masters from Boston University in Data Science
-- 💞️ I’m looking to collaborate on many fun projects
+- 👋 Hi, I’m 
+- 👀 I’m interested 
+- 🌱 I’m currently 
+- 💞️ I’m looking to 
 - 📫 How to reach me ...
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: learning how to ski
+- 😄 Pronouns:
+- ⚡ Fun fact:
 
 <!---
 prarthnab21/prarthnab21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
